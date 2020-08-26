@@ -16363,5 +16363,22 @@ export const data = {
         country: "India",
       },
     },
+    {
+      id: uuidv4(),
+      name: "Jo Fz",
+      img:
+        "https://avatars0.githubusercontent.com/u/43348746?s=400&u=037fcdbb8612c609b96c00435b511215f8714076&v=4",
+      links: {
+        website: "",
+        linkedin: "https://www.linkedin.com/in/jfenza/",
+        github: "https://github.com/FzJo",
+      },
+      jobTitle: "Web Developer",
+      location: {
+        city: "Lyon",
+        state: "Auvergne-Rhône-Alpes",
+        country: "FRANCE",
+      },
+    },
   ],
 }
